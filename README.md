@@ -1,4 +1,4 @@
-# Speech Recognition and Audio Processing System 🎙🔊
+# Speech Recognition and Processing System 🎙🔊
 
 This project involves the implementation of a speech recognition and audio processing system using MATLAB. The system can record audio, apply various audio effects, transcribe speech using the wav2vec2 model, and even open applications using voice commands.
 
