@@ -1,4 +1,4 @@
-# Speech Recognition and Processing System 🎙🔊
+# Voice-Controlled Speech Recognition and Processing System 🎙🔊
 
 This project involves the implementation of a speech recognition and audio processing system using MATLAB. The system can record audio, apply various audio effects, transcribe speech using the wav2vec2 model, and even open applications using voice commands.
 
@@ -24,8 +24,7 @@ This project demonstrates a MATLAB app for recording audio, applying audio effec
     ```matlab
     downloadFile = matlab.internal.examples.downloadSupportFile("audio","wav2vec2/wav2vec2-base-960.zip");
     % Change the working directory to the directory of this code
-    cd(fileparts(which(mfilename)));
-    wav2vecLocation = fullfile(pwd, "wav2vec");
+    wav2vecLocation = fullfile(path of file directory, "wav2vec");
     unzip(downloadFile, wav2vecLocation)
     addpath(wav2vecLocation)
     ```
