@@ -57,8 +57,8 @@ This project demonstrates a MATLAB app for recording audio, applying audio effec
 - **Application Opening:** Open applications using voice commands.
 
 ## Project Image
-![Project Image](path/to/your/project/image.png)
-> Replace `path/to/your/project/image.png` with the actual path to your project image.
+![Project Image](image.png)
+
 
 ## Acknowledgments
 This project was developed by Asad Mehmood and Mahroona Mariam. Special thanks to the MATLAB community and the developers of the wav2vec2 model for providing the necessary resources and support.
